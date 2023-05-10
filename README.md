@@ -2,4 +2,5 @@
 
 ## Example Usage
 
-python3 urlExtractor.py ipText.txt  
+┌──(root㉿kali)-[/home/kali/Desktop]
+└─# python3 urlExtractor.py ipText.txt 
