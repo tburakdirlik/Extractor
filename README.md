@@ -1,6 +1,12 @@
-# URL EXTRACTOR 
+# SUBNET EXTRACTOR
+### Example Usage 
+┌──(root㉿kali)-[/home/kali/Desktop]
 
-## Example Usage
+└─# python3 subnetExtractor.py subnetlist.txt
+
+
+# URL EXTRACTOR 
+### Example Usage
 
 ┌──(root㉿kali)-[/home/kali/Desktop]
 
